@@ -1,1 +1,2 @@
-#!/binbash
+#!/bin/bash
+ls -t . | head
