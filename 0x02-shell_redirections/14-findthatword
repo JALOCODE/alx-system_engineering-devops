@@ -1,0 +1,2 @@
+#!/binbash
+egrep 'root' /etc/passwd
